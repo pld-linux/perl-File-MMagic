@@ -14,7 +14,7 @@ Summary(fr):	Un module Perl qui devine les types de fichier en fonction de leur 
 Summary(it):	Modulo Perl per individuare i tipi di file in base al contenuto
 Summary(ja):	¥Õ¥¡¥¤¥ë¤ÎÆâÍÆ¤Ë´ğ¤Å¤¤¤Æ¥Õ¥¡¥¤¥ë¥¿¥¤¥×¤ò¿äÂ¬¤¹¤ë Perl ¥â¥¸¥å¡¼¥ë
 Summary(ko):	Perl ¸ğÁÙÀº ÆÄÀÏÀÇ ³»¿ë¿¡ ±âÃÊÇØ¼­ ÆÄÀÏ ÇüÅÂ¸¦ ÃßÃàÇÕ´Ï´Ù
-Summary(pl):	Modu³ perla odgaduj±cy typ pliku na podstawie jego zawarto¶ci
+Summary(pl):	Modu³ Perla odgaduj±cy typ pliku na podstawie jego zawarto¶ci
 Summary(pt):	Um módulo de Perl que adivinha o tipo dos ficheiros a partir do conteúdo
 Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl, ËÏÔÏÒÙÊ ÏĞÒÅÄÅÌÑÅÔ ÔÉĞ ÆÁÊÌÁ ĞÏ ÅÇÏ ÓÏÄÅÒÖÉÍÏÍÕ
 Summary(sv):	En Perl-modul som gissar filtyper utgående från deras innehåll
