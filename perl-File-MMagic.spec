@@ -1,12 +1,11 @@
+%include	/usr/lib/rpm/macros.perl
 %define	pdir	File
 %define	pnam	MMagic
-%include	/usr/lib/rpm/macros.perl
 Summary:	File-MMagic perl module
 Summary(pl):	Modu³ perla File-MMagic
 Name:		perl-File-MMagic
 Version:	1.13
-Release:	3
-
+Release:	4
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -24,7 +23,7 @@ Modu³ ten rozpoznaje typ pliku na podstawie jego kontekstu podobnie
 jak komenda file(1).
 
 %prep
-%setup -q -n File-MMagic-%{version}
+%setup -q -n %{pdir}-%{pnam}-%{version}
 
 %build
 perl Makefile.PL
