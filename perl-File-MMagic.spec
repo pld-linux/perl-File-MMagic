@@ -20,12 +20,12 @@ Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl, ËÏÔÏÒÙÊ ÏÐÒÅÄÅÌÑÅÔ ÔÉÐ ÆÁÊÌÁ ÐÏ ÅÇÏ ÓÏÄÅÒÖÉÍÏÍÕ
 Summary(sv):	En Perl-modul som gissar filtyper utgående från deras innehåll
 Summary(zh_CN):	Ò»¸ö¸ù¾ÄÚÈ²Â²âÎÄ¼þÀàÐÍµÄ Perl Ä£¿é¡£
 Name:		perl-File-MMagic
-Version:	1.19
+Version:	1.20
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	217dfb45125e7bb290bccf63383df2c4
+# Source0-md5:	8f1f7189c9f2a2c19157a756a0d177e5
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-devel >= 5.6.1
 BuildArch:	noarch
