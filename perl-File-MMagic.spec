@@ -1,3 +1,7 @@
+#
+# Conditional build:
+# _without_tests - do not perform "make test"
+#
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	File
 %define		pnam	MMagic
@@ -16,8 +20,8 @@ Summary(ru):	Модуль для Perl, который определяет тип файла по его содержимому
 Summary(sv):	En Perl-modul som gissar filtyper utgЕende frЕn deras innehЕll
 Summary(zh_CN):	р╩╦Ж╦Ы╬дзх╡б╡Бнд╪ЧюЮпм╣д Perl дё©И║ё
 Name:		perl-File-MMagic
-Version:	1.15
-Release:	2
+Version:	1.16
+Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
@@ -89,6 +93,7 @@ fungerar.
 %build
 perl Makefile.PL
 %{__make}
+%{!?_without_tests:%{__make} test}
 
 %install
 rm -rf $RPM_BUILD_ROOT
@@ -102,3 +107,4 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %doc README.en ChangeLog
 %{perl_sitelib}/File/*
+%{_mandir}/man3/*
