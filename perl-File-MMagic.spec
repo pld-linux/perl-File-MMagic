@@ -1,7 +1,9 @@
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	File
-%define	pnam	MMagic
+%define		pdir	File
+%define		pnam	MMagic
+
 Summary:	File-MMagic perl module
+Summary(ja):	file¥³¥Þ¥ó¥ÉÉ÷perl5¥â¥¸¥å¡¼¥ë
 Summary(pl):	Modu³ perla File-MMagic
 Name:		perl-File-MMagic
 Version:	1.15
@@ -17,6 +19,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This module is to guess file type from its contents like file(1)
 command.
+
+%description -l ja
+¤³¤Î¥â¥¸¥å¡¼¥ë¤Ï¡¢file(1)¥³¥Þ¥ó¥É¤ËÁêÅö¤¹¤ëµ¡Ç½¡¢¤¹¤Ê¤ï¤Á¥Õ¥¡¥¤¥ë¤ÎÆâ
+ÍÆ¤«¤é¤½¤Î¼ïÎà¤ò¿äÂ¬¤¹¤ë¤¿¤á¤Î¤â¤Î¤Ç¤¹¡£
 
 %description -l pl
 Modu³ ten rozpoznaje typ pliku na podstawie jego kontekstu podobnie
