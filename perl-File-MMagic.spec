@@ -3,7 +3,7 @@ Summary:	File-MMagic perl module
 Summary(pl):	Modu³ perla File-MMagic
 Name:		perl-File-MMagic
 Version:	1.13
-Release:	1
+Release:	2
 License:	GPL
 Group:		Development/Languages/Perl
 Group(de):	Entwicklung/Sprachen/Perl
