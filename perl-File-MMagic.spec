@@ -22,7 +22,7 @@ Summary(zh_CN):	一个根灸谌猜测文件类型的 Perl 模块。
 Name:		perl-File-MMagic
 Version:	1.22
 Release:	1
-License:	GPL
+License:	BSD-like/Apache
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	de4fc586de7629483196bea11c898bfc
