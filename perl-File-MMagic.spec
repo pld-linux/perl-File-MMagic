@@ -3,8 +3,8 @@
 %bcond_without	tests # do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define		pdir	File
-%define		pnam	MMagic
+%define	pdir	File
+%define	pnam	MMagic
 Summary:	A Perl module that guesses file types based on their contents
 Summary(cs):	Modul pro Perl na zji¹»ování typu souboru podle jeho obsahu
 Summary(da):	En Perl-modul som gissar filtyper utgående fra deras indhold
