@@ -2,9 +2,9 @@
 %define		pdir	File
 %define		pnam	MMagic
 
-Summary:	File-MMagic perl module
+Summary:	File::MMagic perl module
 Summary(ja):	file¥³¥Þ¥ó¥ÉÉ÷perl5¥â¥¸¥å¡¼¥ë
-Summary(pl):	Modu³ perla File-MMagic
+Summary(pl):	Modu³ perla File::MMagic
 Name:		perl-File-MMagic
 Version:	1.15
 Release:	1
