@@ -20,7 +20,7 @@ Summary(ru):	Модуль для Perl, который определяет тип файла по его содержимому
 Summary(sv):	En Perl-modul som gissar filtyper utgЕende frЕn deras innehЕll
 Summary(zh_CN):	р╩╦Ж╦Ы╬дзх╡б╡Бнд╪ЧюЮпм╣д Perl дё©И║ё
 Name:		perl-File-MMagic
-Version:	1.16
+Version:	1.17
 Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
