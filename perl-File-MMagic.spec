@@ -19,8 +19,8 @@ This module is to guess file type from its contents like file(1)
 command.
 
 %description -l pl
-Modul ten rozpoznaje typ pliku na podstawie jego kontekstu podobnie
-jak komenda file.
+Modu³ ten rozpoznaje typ pliku na podstawie jego kontekstu podobnie
+jak komenda file(1).
 
 %prep
 %setup -q -n File-MMagic-%{version}
