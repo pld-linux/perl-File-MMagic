@@ -4,8 +4,8 @@
 Summary:	File-MMagic perl module
 Summary(pl):	Modu³ perla File-MMagic
 Name:		perl-File-MMagic
-Version:	1.13
-Release:	4
+Version:	1.15
+Release:	1
 License:	GPL
 Group:		Development/Languages/Perl
 Source0:	ftp://ftp.cpan.org/pub/CPAN/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
