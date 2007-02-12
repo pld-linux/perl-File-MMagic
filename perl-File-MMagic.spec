@@ -6,19 +6,19 @@
 %define		pdir	File
 %define		pnam	MMagic
 Summary:	A Perl module that guesses file types based on their contents
-Summary(cs):	Modul pro Perl na zji¹»ování typu souboru podle jeho obsahu
-Summary(da):	En Perl-modul som gissar filtyper utgående fra deras indhold
-Summary(de):	Ein Perl Modul, das eine Datei an ihrem Inhalt erkennt
-Summary(es):	Módulo Perl que conjetura tipos de ficheros basados en su contenido
-Summary(fr):	Un module Perl qui devine les types de fichier en fonction de leur contenu
-Summary(it):	Modulo Perl per individuare i tipi di file in base al contenuto
-Summary(ja):	¥Õ¥¡¥¤¥ë¤ÎÆâÍÆ¤Ë´ğ¤Å¤¤¤Æ¥Õ¥¡¥¤¥ë¥¿¥¤¥×¤ò¿äÂ¬¤¹¤ë Perl ¥â¥¸¥å¡¼¥ë
-Summary(ko):	Perl ¸ğÁÙÀº ÆÄÀÏÀÇ ³»¿ë¿¡ ±âÃÊÇØ¼­ ÆÄÀÏ ÇüÅÂ¸¦ ÃßÃàÇÕ´Ï´Ù
-Summary(pl):	Modu³ Perla odgaduj±cy typ pliku na podstawie jego zawarto¶ci
-Summary(pt):	Um módulo de Perl que adivinha o tipo dos ficheiros a partir do conteúdo
-Summary(ru):	íÏÄÕÌØ ÄÌÑ Perl, ËÏÔÏÒÙÊ ÏĞÒÅÄÅÌÑÅÔ ÔÉĞ ÆÁÊÌÁ ĞÏ ÅÇÏ ÓÏÄÅÒÖÉÍÏÍÕ
-Summary(sv):	En Perl-modul som gissar filtyper utgående från deras innehåll
-Summary(zh_CN):	Ò»¸ö¸ù¾ÄÚÈ²Â²âÎÄ¼şÀàĞÍµÄ Perl Ä£¿é¡£
+Summary(cs.UTF-8):   Modul pro Perl na zjiÅ¡Å¥ovÃ¡nÃ­ typu souboru podle jeho obsahu
+Summary(da.UTF-8):   En Perl-modul som gissar filtyper utgÃ¥ende fra deras indhold
+Summary(de.UTF-8):   Ein Perl Modul, das eine Datei an ihrem Inhalt erkennt
+Summary(es.UTF-8):   MÃ³dulo Perl que conjetura tipos de ficheros basados en su contenido
+Summary(fr.UTF-8):   Un module Perl qui devine les types de fichier en fonction de leur contenu
+Summary(it.UTF-8):   Modulo Perl per individuare i tipi di file in base al contenuto
+Summary(ja.UTF-8):   ãƒ•ã‚¡ã‚¤ãƒ«ã®å†…å®¹ã«åŸºã¥ã„ã¦ãƒ•ã‚¡ã‚¤ãƒ«ã‚¿ã‚¤ãƒ—ã‚’æ¨æ¸¬ã™ã‚‹ Perl ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«
+Summary(ko.UTF-8):   Perl ëª¨ì¤„ì€ íŒŒì¼ì˜ ë‚´ìš©ì— ê¸°ì´ˆí•´ì„œ íŒŒì¼ í˜•íƒœë¥¼ ì¶”ì¶•í•©ë‹ˆë‹¤
+Summary(pl.UTF-8):   ModuÅ‚ Perla odgadujÄ…cy typ pliku na podstawie jego zawartoÅ›ci
+Summary(pt.UTF-8):   Um mÃ³dulo de Perl que adivinha o tipo dos ficheiros a partir do conteÃºdo
+Summary(ru.UTF-8):   ĞœĞ¾Ğ´ÑƒĞ»ÑŒ Ğ´Ğ»Ñ Perl, ĞºĞ¾Ñ‚Ğ¾Ñ€Ñ‹Ğ¹ Ğ¾Ğ¿Ñ€ĞµĞ´ĞµĞ»ÑĞµÑ‚ Ñ‚Ğ¸Ğ¿ Ñ„Ğ°Ğ¹Ğ»Ğ° Ğ¿Ğ¾ ĞµĞ³Ğ¾ ÑĞ¾Ğ´ĞµÑ€Ğ¶Ğ¸Ğ¼Ğ¾Ğ¼Ñƒ
+Summary(sv.UTF-8):   En Perl-modul som gissar filtyper utgÃ¥ende frÃ¥n deras innehÃ¥ll
+Summary(zh_CN.UTF-8):   ä¸€ä¸ªæ ¹ç¸è°ŒçŒœæµ‹æ–‡ä»¶ç±»å‹çš„ Perl æ¨¡å—ã€‚
 Name:		perl-File-MMagic
 Version:	1.27
 Release:	1
@@ -37,56 +37,56 @@ The perl-File-MMagic package provides a Perl module for guessing a
 file type from the contents of the file, similar to how the file(1)
 command works.
 
-%description -l cs
-Balíèek obsahuje modul pro Perl, kterı umo¾òuje zji¹»ovat typ souboru
-podle jeho obsahu. Jeho èinnost je podobná programu file(1).
+%description -l cs.UTF-8
+BalÃ­Äek obsahuje modul pro Perl, kterÃ½ umoÅ¾Åˆuje zjiÅ¡Å¥ovat typ souboru
+podle jeho obsahu. Jeho Äinnost je podobnÃ¡ programu file(1).
 
-%description -l da
-Pakken perl-File-MMagic tillhandahåller en Perl-modul for at gissa
+%description -l da.UTF-8
+Pakken perl-File-MMagic tillhandahÃ¥ller en Perl-modul for at gissa
 filtypen fra indholdet i filen, lignende hvordan kommandoen file(1)
 fungerar.
 
-%description -l de
+%description -l de.UTF-8
 Das Paket perl-File-MMagic liefert ein Perl-Modul zum Herausfinden
-eines Dateityps an Hand des Inhalts der Datei, ähnlich wie die file(1)
+eines Dateityps an Hand des Inhalts der Datei, Ã¤hnlich wie die file(1)
 arbeitet.
 
-%description -l es
-El conjunto de perl-File-MMagic proporciona a un módulo del Perl para
+%description -l es.UTF-8
+El conjunto de perl-File-MMagic proporciona a un mÃ³dulo del Perl para
 adivinar un tipo de fichero por el contenido del fichero, similar a
 como el comando de file(1) funciona.
 
-%description -l fr
+%description -l fr.UTF-8
 Le paquetage Perl-File-MMagic fournit un module Perl permettant de
-deviner le type d'un fichier à partir de son contenu, semblable à la
-façon dont fonctionne la commande du file(1).
+deviner le type d'un fichier Ã  partir de son contenu, semblable Ã  la
+faÃ§on dont fonctionne la commande du file(1).
 
-%description -l it
+%description -l it.UTF-8
 Il pacchetto perl-File-MMagic fornisce un modulo Perl per individuare
 un tipo di file dal suo contenuto, in modo simile al comando file(1).
 
-%description -l ja
-perl-File-MMagic ¥Ñ¥Ã¥±¡¼¥¸¤Ï¡¢¥Õ¥¡¥¤¥ë¤ÎÆâÍÆ¤«¤é¥Õ¥¡¥¤¥ë¤Î¥¿¥¤¥×¤ò¿ä
-Â¬¤¹¤ë¤¿¤á¤Î Perl ¥â¥¸¥å¡¼¥ë¤òÄó¶¡¤·¡¢file(1) ¥³¥Ş¥ó¥É¤ÈÆ±ÍÍ¤ÎÌò³ä¤ò
-²Ì¤¿¤·¤Ş¤¹¡£
+%description -l ja.UTF-8
+perl-File-MMagic ãƒ‘ãƒƒã‚±ãƒ¼ã‚¸ã¯ã€ãƒ•ã‚¡ã‚¤ãƒ«ã®å†…å®¹ã‹ã‚‰ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¿ã‚¤ãƒ—ã‚’æ¨
+æ¸¬ã™ã‚‹ãŸã‚ã® Perl ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’æä¾›ã—ã€file(1) ã‚³ãƒãƒ³ãƒ‰ã¨åŒæ§˜ã®å½¹å‰²ã‚’
+æœãŸã—ã¾ã™ã€‚
 
-%description -l pl
-Modu³ ten rozpoznaje typ pliku na podstawie jego zawarto¶ci podobnie
+%description -l pl.UTF-8
+ModuÅ‚ ten rozpoznaje typ pliku na podstawie jego zawartoÅ›ci podobnie
 jak polecenie file(1).
 
-%description -l pt
-O pacote perl-File-MMagic oferece um módulo de Perl para adivinhar o
-tipo dum ficheiro a partir do seu conteúdo, de maneira semelhante à
+%description -l pt.UTF-8
+O pacote perl-File-MMagic oferece um mÃ³dulo de Perl para adivinhar o
+tipo dum ficheiro a partir do seu conteÃºdo, de maneira semelhante Ã 
 que o comando file(1) funciona.
 
-%description -l ru
-ğÁËÅÔ perl-File-MMagic ÓÏÄÅÒÖÉÔ ÍÏÄÕÌØ ÄÌÑ Perl, ËÏÔÏÒÙÅ ĞÙÔÁÅÔÓÑ
-ÏĞÒÅÄÅÌÉÔØ ÔÉĞ ÆÁÊÌÁ, ĞÏ ÓÏÄÅÒÖÉÍÏÍÕ ÆÁÊÌÁ, ĞÏÄÏÂÎÏ ÔÏÍÕ ËÁË ÒÁÂÏÔÁÅÔ
-ËÏÍÁÎÄÁ file(1).
+%description -l ru.UTF-8
+ĞŸĞ°ĞºĞµÑ‚ perl-File-MMagic ÑĞ¾Ğ´ĞµÑ€Ğ¶Ğ¸Ñ‚ Ğ¼Ğ¾Ğ´ÑƒĞ»ÑŒ Ğ´Ğ»Ñ Perl, ĞºĞ¾Ñ‚Ğ¾Ñ€Ñ‹Ğµ Ğ¿Ñ‹Ñ‚Ğ°ĞµÑ‚ÑÑ
+Ğ¾Ğ¿Ñ€ĞµĞ´ĞµĞ»Ğ¸Ñ‚ÑŒ Ñ‚Ğ¸Ğ¿ Ñ„Ğ°Ğ¹Ğ»Ğ°, Ğ¿Ğ¾ ÑĞ¾Ğ´ĞµÑ€Ğ¶Ğ¸Ğ¼Ğ¾Ğ¼Ñƒ Ñ„Ğ°Ğ¹Ğ»Ğ°, Ğ¿Ğ¾Ğ´Ğ¾Ğ±Ğ½Ğ¾ Ñ‚Ğ¾Ğ¼Ñƒ ĞºĞ°Ğº Ñ€Ğ°Ğ±Ğ¾Ñ‚Ğ°ĞµÑ‚
+ĞºĞ¾Ğ¼Ğ°Ğ½Ğ´Ğ° file(1).
 
-%description -l sv
-Paketet perl-File-MMagic tillhandahåller en Perl-modul för att gissa
-filtypen från innehållet i filen, liknande hur kommandot file(1)
+%description -l sv.UTF-8
+Paketet perl-File-MMagic tillhandahÃ¥ller en Perl-modul fÃ¶r att gissa
+filtypen frÃ¥n innehÃ¥llet i filen, liknande hur kommandot file(1)
 fungerar.
 
 %prep
