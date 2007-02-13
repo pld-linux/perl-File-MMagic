@@ -6,19 +6,19 @@
 %define		pdir	File
 %define		pnam	MMagic
 Summary:	A Perl module that guesses file types based on their contents
-Summary(cs.UTF-8):   Modul pro Perl na zjišťování typu souboru podle jeho obsahu
-Summary(da.UTF-8):   En Perl-modul som gissar filtyper utgående fra deras indhold
-Summary(de.UTF-8):   Ein Perl Modul, das eine Datei an ihrem Inhalt erkennt
-Summary(es.UTF-8):   Módulo Perl que conjetura tipos de ficheros basados en su contenido
-Summary(fr.UTF-8):   Un module Perl qui devine les types de fichier en fonction de leur contenu
-Summary(it.UTF-8):   Modulo Perl per individuare i tipi di file in base al contenuto
-Summary(ja.UTF-8):   ファイルの内容に基づいてファイルタイプを推測する Perl モジュール
-Summary(ko.UTF-8):   Perl 모줄은 파일의 내용에 기초해서 파일 형태를 추축합니다
-Summary(pl.UTF-8):   Moduł Perla odgadujący typ pliku na podstawie jego zawartości
-Summary(pt.UTF-8):   Um módulo de Perl que adivinha o tipo dos ficheiros a partir do conteúdo
-Summary(ru.UTF-8):   Модуль для Perl, который определяет тип файла по его содержимому
-Summary(sv.UTF-8):   En Perl-modul som gissar filtyper utgående från deras innehåll
-Summary(zh_CN.UTF-8):   一个根灸谌猜测文件类型的 Perl 模块。
+Summary(cs.UTF-8):	Modul pro Perl na zjišťování typu souboru podle jeho obsahu
+Summary(da.UTF-8):	En Perl-modul som gissar filtyper utgående fra deras indhold
+Summary(de.UTF-8):	Ein Perl Modul, das eine Datei an ihrem Inhalt erkennt
+Summary(es.UTF-8):	Módulo Perl que conjetura tipos de ficheros basados en su contenido
+Summary(fr.UTF-8):	Un module Perl qui devine les types de fichier en fonction de leur contenu
+Summary(it.UTF-8):	Modulo Perl per individuare i tipi di file in base al contenuto
+Summary(ja.UTF-8):	ファイルの内容に基づいてファイルタイプを推測する Perl モジュール
+Summary(ko.UTF-8):	Perl 모줄은 파일의 내용에 기초해서 파일 형태를 추축합니다
+Summary(pl.UTF-8):	Moduł Perla odgadujący typ pliku na podstawie jego zawartości
+Summary(pt.UTF-8):	Um módulo de Perl que adivinha o tipo dos ficheiros a partir do conteúdo
+Summary(ru.UTF-8):	Модуль для Perl, который определяет тип файла по его содержимому
+Summary(sv.UTF-8):	En Perl-modul som gissar filtyper utgående från deras innehåll
+Summary(zh_CN.UTF-8):	一个根灸谌猜测文件类型的 Perl 模块。
 Name:		perl-File-MMagic
 Version:	1.27
 Release:	1
