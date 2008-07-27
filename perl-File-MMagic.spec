@@ -21,7 +21,7 @@ Summary(sv.UTF-8):	En Perl-modul som gissar filtyper utgående från deras inneh
 Summary(zh_CN.UTF-8):	一个根灸谌猜测文件类型的 Perl 模块。
 Name:		perl-File-MMagic
 Version:	1.27
-Release:	1
+Release:	2
 License:	BSD-like/Apache
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
