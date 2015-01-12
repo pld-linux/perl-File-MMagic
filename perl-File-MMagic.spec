@@ -1,10 +1,10 @@
 #
 # Conditional build:
 %bcond_without	tests # do not perform "make test"
-#
-%include	/usr/lib/rpm/macros.perl
+
 %define		pdir	File
 %define		pnam	MMagic
+%include	/usr/lib/rpm/macros.perl
 Summary:	A Perl module that guesses file types based on their contents
 Summary(cs.UTF-8):	Modul pro Perl na zjišťování typu souboru podle jeho obsahu
 Summary(da.UTF-8):	En Perl-modul som gissar filtyper utgående fra deras indhold
@@ -20,12 +20,12 @@ Summary(ru.UTF-8):	Модуль для Perl, который определяет
 Summary(sv.UTF-8):	En Perl-modul som gissar filtyper utgående från deras innehåll
 Summary(zh_CN.UTF-8):	一个根灸谌猜测文件类型的 Perl 模块。
 Name:		perl-File-MMagic
-Version:	1.27
-Release:	2
+Version:	1.30
+Release:	1
 License:	BSD-like/Apache
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/File/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	4ffb13b6587888e6e455c22988abce5e
+# Source0-md5:	a0157c71d5872fa07102a2ffaf7979ec
 URL:		http://search.cpan.org/dist/File-MMagic/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
