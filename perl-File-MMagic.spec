@@ -111,5 +111,5 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc README.en ChangeLog
-%{perl_vendorlib}/File/*
-%{_mandir}/man3/*
+%{perl_vendorlib}/File/MMagic.pm
+%{_mandir}/man3/File::MMagic.3pm*
