@@ -4,7 +4,6 @@
 
 %define		pdir	File
 %define		pnam	MMagic
-%include	/usr/lib/rpm/macros.perl
 Summary:	A Perl module that guesses file types based on their contents
 Summary(cs.UTF-8):	Modul pro Perl na zjišťování typu souboru podle jeho obsahu
 Summary(da.UTF-8):	En Perl-modul som gissar filtyper utgående fra deras indhold
